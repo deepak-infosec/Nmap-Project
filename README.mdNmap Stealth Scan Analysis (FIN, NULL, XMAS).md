@@ -116,9 +116,9 @@ XMAS   | FIN,PSH,URG   | RST    | No response
 
 ---
 
-## Screenshots
 
-Add your captures here:
+
+
 
 * Wireshark (XMAS closed)
 * Wireshark (XMAS open)
